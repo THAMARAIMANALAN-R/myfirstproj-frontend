@@ -1,0 +1,1 @@
+Welcome to My first front-end project! It's been a month into my journey of learning front-end and this is my first project.It's a simple portfolio frontend project.Soon will make a functional and a complete website!!
